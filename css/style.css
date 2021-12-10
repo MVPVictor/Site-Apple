@@ -1,0 +1,33 @@
+*{
+
+    padding: 0;
+    margin: 0;
+
+}
+
+#Menu{
+
+    background-color: #333333;
+    color: #B3B3B3;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.list{
+    display: flex;
+}
+
+.icon{
+
+    color: #f5f5f7;
+    padding: 0px 8px;
+    
+}
+
+a{
+
+    color: #f5f5f7;
+    text-decoration: none;
+    
+}
